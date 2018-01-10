@@ -1,0 +1,10 @@
+This is BibTeX, Version 0.99cThe top-level auxiliary file: ColorPaper.aux
+The style file: plain.bst
+I found no \citation commands---while reading file ColorPaper.aux
+Database file #1: thebib.bib
+I was expecting a `,' or a `}'---line 5 of file thebib.bib
+ :     
+ :     pages="639–686",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 2 error messages)

@@ -1,0 +1,344 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2011.2.14)  14 FEB 2011 19:44
+entering extended mode
+**D:/BruceBCampbell/ImageProcessing/ColorPaper/ColorPaper.tex
+(D:/BruceBCampbell/ImageProcessing/ColorPaper/ColorPaper.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\classes\amsart.cls"
+Document Class: amsart 2009/07/02 v2.20.1
+\linespacing=\dimen102
+\normalparindent=\dimen103
+\normaltopskip=\skip41
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks15
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 388.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+\copyins=\insert233
+\abstractbox=\box28
+\listisep=\skip45
+\c@part=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\captionindent=\dimen113
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2010/09/14 v0.05b Graphics/color for pdfTeX
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+\c@thm=\count100
+
+(D:\BruceBCampbell\ImageProcessing\ColorPaper\ColorPaper.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+(C:\Users\LT\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen116
+\scratchbox=\box29
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen117
+\MPnumerator=\count105
+\everyMPtoPDFconversion=\toks27
+) <daylight_Flourcescent.jpg, id=1, 1927.2pt x 1076.02pt>
+File: daylight_Flourcescent.jpg Graphic file (type jpg)
+
+<use daylight_Flourcescent.jpg> <XYZ_CMF.jpg, id=2, 1927.2pt x 1106.1325pt>
+File: XYZ_CMF.jpg Graphic file (type jpg)
+
+<use XYZ_CMF.jpg> [1{C:/Users/LT/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.
+map}] [2 <D:/BruceBCampbell/ImageProcessing/ColorPaper/daylight_Flourcescent.jp
+g> <D:/BruceBCampbell/ImageProcessing/ColorPaper/XYZ_CMF.jpg>]
+<ch1.jpg, id=17, 562.1pt x 421.575pt>
+File: ch1.jpg Graphic file (type jpg)
+ <use ch1.jpg>
+<ch2.jpg, id=18, 562.1pt x 421.575pt>
+File: ch2.jpg Graphic file (type jpg)
+ <use ch2.jpg>
+<ch3.jpg, id=19, 562.1pt x 421.575pt>
+File: ch3.jpg Graphic file (type jpg)
+ <use ch3.jpg>
+<ch4.jpg, id=20, 562.1pt x 421.575pt>
+File: ch4.jpg Graphic file (type jpg)
+ <use ch4.jpg>
+<ch5.jpg, id=21, 562.1pt x 421.575pt>
+File: ch5.jpg Graphic file (type jpg)
+ <use ch5.jpg>
+<ch6.jpg, id=22, 562.1pt x 421.575pt>
+File: ch6.jpg Graphic file (type jpg)
+ <use ch6.jpg>
+<ch7.jpg, id=23, 562.1pt x 421.575pt>
+File: ch7.jpg Graphic file (type jpg)
+ <use ch7.jpg>
+<ch8.jpg, id=24, 562.1pt x 421.575pt>
+File: ch8.jpg Graphic file (type jpg)
+ <use ch8.jpg>
+<ch9.jpg, id=25, 562.1pt x 421.575pt>
+File: ch9.jpg Graphic file (type jpg)
+ <use ch9.jpg>
+<ch10.jpg, id=26, 562.1pt x 421.575pt>
+File: ch10.jpg Graphic file (type jpg)
+ <use ch10.jpg>
+<ch11.jpg, id=27, 562.1pt x 421.575pt>
+File: ch11.jpg Graphic file (type jpg)
+ <use ch11.jpg>
+<ch12.jpg, id=28, 562.1pt x 421.575pt>
+File: ch12.jpg Graphic file (type jpg)
+ <use ch12.jpg>
+<ch13.jpg, id=29, 562.1pt x 421.575pt>
+File: ch13.jpg Graphic file (type jpg)
+ <use ch13.jpg>
+<ch14.jpg, id=30, 562.1pt x 421.575pt>
+File: ch14.jpg Graphic file (type jpg)
+ <use ch14.jpg>
+<ch15.jpg, id=31, 562.1pt x 421.575pt>
+File: ch15.jpg Graphic file (type jpg)
+ <use ch15.jpg>
+<ch16.jpg, id=32, 562.1pt x 421.575pt>
+File: ch16.jpg Graphic file (type jpg)
+ <use ch16.jpg>
+<ch17.jpg, id=33, 562.1pt x 421.575pt>
+File: ch17.jpg Graphic file (type jpg)
+ <use ch17.jpg>
+<ch18.jpg, id=34, 562.1pt x 421.575pt>
+File: ch18.jpg Graphic file (type jpg)
+ <use ch18.jpg>
+<ch19.jpg, id=35, 562.1pt x 421.575pt>
+File: ch19.jpg Graphic file (type jpg)
+ <use ch19.jpg>
+<ch20.jpg, id=36, 562.1pt x 421.575pt>
+File: ch20.jpg Graphic file (type jpg)
+ <use ch20.jpg>
+<ch21.jpg, id=37, 562.1pt x 421.575pt>
+File: ch21.jpg Graphic file (type jpg)
+ <use ch21.jpg>
+<ch22.jpg, id=38, 562.1pt x 421.575pt>
+File: ch22.jpg Graphic file (type jpg)
+ <use ch22.jpg>
+<ch23.jpg, id=39, 562.1pt x 421.575pt>
+File: ch23.jpg Graphic file (type jpg)
+ <use ch23.jpg>
+<ch24.jpg, id=40, 562.1pt x 421.575pt>
+File: ch24.jpg Graphic file (type jpg)
+ <use ch24.jpg>
+Overfull \hbox (33.43097pt too wide) in paragraph at lines 70--124
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+[4 <D:/BruceBCampbell/ImageProcessing/ColorPaper/ch1.jpg> <D:/BruceBCampbell/Im
+ageProcessing/ColorPaper/ch2.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper
+/ch3.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper/ch4.jpg> <D:/BruceBCamp
+bell/ImageProcessing/ColorPaper/ch5.jpg> <D:/BruceBCampbell/ImageProcessing/Col
+orPaper/ch6.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper/ch7.jpg> <D:/Bru
+ceBCampbell/ImageProcessing/ColorPaper/ch8.jpg> <D:/BruceBCampbell/ImageProcess
+ing/ColorPaper/ch9.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper/ch10.jpg>
+ <D:/BruceBCampbell/ImageProcessing/ColorPaper/ch11.jpg> <D:/BruceBCampbell/Ima
+geProcessing/ColorPaper/ch12.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper
+/ch13.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper/ch14.jpg> <D:/BruceBCa
+mpbell/ImageProcessing/ColorPaper/ch15.jpg> <D:/BruceBCampbell/ImageProcessing/
+ColorPaper/ch16.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper/ch17.jpg> <D
+:/BruceBCampbell/ImageProcessing/ColorPaper/ch18.jpg> <D:/BruceBCampbell/ImageP
+rocessing/ColorPaper/ch19.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper/ch
+20.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper/ch21.jpg> <D:/BruceBCampb
+ell/ImageProcessing/ColorPaper/ch22.jpg> <D:/BruceBCampbell/ImageProcessing/Col
+orPaper/ch23.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper/ch24.jpg>]
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ½ in font cmr10!
+
+<aperio_sRGB_v1.jpg, id=47, 461.47406pt x 380.92313pt>
+File: aperio_sRGB_v1.jpg Graphic file (type jpg)
+
+<use aperio_sRGB_v1.jpg> <aperio_sRGB_v2.jpg, id=48, 408.02437pt x 373.395pt>
+File: aperio_sRGB_v2.jpg Graphic file (type jpg)
+
+<use aperio_sRGB_v2.jpg>
+<aperio_sRGB_v3.jpg, id=49, 341.77687pt x 365.11406pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <D:/BruceBCampbell/ImageProcessing/ColorPaper/aperio_sRGB_v1.jpg>]
+File: aperio_sRGB_v3.jpg Graphic file (type jpg)
+
+<use aperio_sRGB_v3.jpg> <aperio_sRGB_v4.jpg, id=53, 450.9347pt x 368.1253pt>
+File: aperio_sRGB_v4.jpg Graphic file (type jpg)
+
+<use aperio_sRGB_v4.jpg> [6 <D:/BruceBCampbell/ImageProcessing/ColorPaper/aperi
+o_sRGB_v2.jpg> <D:/BruceBCampbell/ImageProcessing/ColorPaper/aperio_sRGB_v3.jpg
+> <D:/BruceBCampbell/ImageProcessing/ColorPaper/aperio_sRGB_v4.jpg>]
+<RGB_TO_YCBCR.jpg, id=57, 792.71156pt x 752.0597pt>
+File: RGB_TO_YCBCR.jpg Graphic file (type jpg)
+ <use RGB_TO_YCBCR.jpg>
+(D:\BruceBCampbell\ImageProcessing\ColorPaper\ColorPaper.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [7 <D:/BruceBCampbell/ImageProcessing/ColorPaper/RGB_TO_YCBCR.jpg>] [8]
+(D:\BruceBCampbell\ImageProcessing\ColorPaper\ColorPaper.aux) ) 
+Here is how much of TeX's memory you used:
+ 2283 strings out of 494019
+ 27531 string characters out of 3143891
+ 83750 words of memory out of 3000000
+ 5393 multiletter control sequences out of 15000+200000
+ 9869 words of font info for 39 fonts, out of 3000000 for 9000
+ 875 hyphenation exceptions out of 8191
+ 34i,10n,32p,1240b,251s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on ColorPaper.pdf (8 pages, 1143618 bytes).
+PDF statistics:
+ 96 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,411 @@
+RUTINAS COLORLAB 1.0
+
+1.- Representación de estímulos cromáticos
+
+     - defilum
+     - defrefl
+     - loadmuni
+     - loadmunr
+     
+     - est2tri
+     - scanner
+          est2tri
+         .waitbar*                (IMAGES)
+     - tri2refl
+          est2tri
+          tri2coor
+         .ganadora
+
+2.- Representaciones triestímulo del color
+
+     - tri2coor
+     - coor2tri
+     - coor2lp
+          coor2tri
+     - lp2coor
+          tri2coor
+
+     - defsism
+         .cambiob
+             coor2tri
+          cambiaco
+             cambibas 
+             coor2tri
+     - defsisg
+         .niv2coor 
+             ganadora
+          defcroma
+            .replocus 
+                niv2coor 
+                   ganadora
+             colorend 
+                tri2coor
+                lp2coor
+                   tri2coor
+                replocus  
+                   niv2coor 
+                      ganadora
+          cambiob
+             coor2tri
+          cambibas
+          coor2tri
+     - cambiaco  
+          cambibas 
+          coor2tri      
+     - cambibas
+
+     - colorend
+          tri2coor
+          lp2coor
+             tri2coor
+          replocus  
+             niv2coor 
+                ganadora
+     - colorene
+          niv2coor 
+             ganadora
+          coor2tri
+          lp2coor
+             tri2coor 
+           
+     - defcolor
+          defcroma
+             replocus 
+                niv2coor 
+                   ganadora
+             colorend 
+                tri2coor
+                lp2coor
+                   tri2coor
+                replocus  
+                   niv2coor 
+                      ganadora
+     - defcroma
+          replocus 
+             niv2coor 
+                ganadora
+          colorend 
+             tri2coor
+             lp2coor
+                tri2coor
+             replocus  
+                niv2coor 
+                   ganadora
+
+3.- Representación del color en el ordenador
+
+      - calibrin
+          .calibra
+          .sacagama
+             .justa1                
+                .ajusta1            
+                    fmins*            
+                   .error1          
+                   .chi2cdf*          (STATS)
+                      .distchck*      (STATS)
+                      .gamcdf*        (STATS)
+                   .derivad2        
+                      .funcion
+                .grafic1            
+      - tri2niv4
+           waitbar*
+          .t2n
+             .tri2lum
+             .lum2niv 
+          .miniecol
+             .errcol
+                 niv2coor
+                    ganadora
+                .n2t
+                   .niv2lum
+                   .lum2tri
+              niv2coor
+                 ganadora
+           niv2coor
+              ganadora
+           n2t
+              niv2lum
+              lum2tri
+      - niv2tri2
+           niv2coor
+              ganadora
+               
+      - carga
+      - cargam
+      - guarda
+      - guardam
+      - carga3
+          .cargaim
+           tri2palt                             
+              waitbar*                    (IMAGES)
+              cmunique*                   (IMAGES)
+                 imhist*                  (IMAGES)
+                    imhistc*              (IMAGES)
+                       imhistc.mex*       (IMAGES)
+              vmquant*                    (IMAGES)
+                 vmquantc*                (IMAGES)
+                    vmquantc.mex*         (IMAGES)
+              rgb2ind*                    (IMAGES)
+                 cmunique*                (IMAGES)
+                    imhist*               (IMAGES)
+                       imhistc*           (IMAGES)
+                          imhistc.mex*    (IMAGES)
+                 vmquant*                 (IMAGES)
+                    vmquantc*             (IMAGES)
+                       vmquantc.mex*      (IMAGES)
+                 dither*                  (IMAGES)
+                    ditherc*              (IMAGES)
+                       ditherc.mex*       (IMAGES)
+                 im2bw*                   (IMAGES)
+                 rgb2gray*                (IMAGES)
+                 ind2rgb*                 (IMAGES)
+                 imshow*                  (IMAGES)     
+                 elem3d*                  (IMAGES)
+      - guarda3
+          .guardaim
+       
+      - descomp
+           niv2tri2
+              niv2coor
+                 ganadora
+           defsisg
+              niv2coor 
+                 ganadora
+              defcroma
+                 replocus 
+                    niv2coor 
+                       ganadora
+                 colorend 
+                    tri2coor
+                    lp2coor
+                       tri2coor
+                    replocus  
+                       niv2coor 
+                          ganadora
+           cambibas
+           cambiaco
+              cambibas 
+              coor2tri           
+          .xyz2lab
+          .xyz2luv
+          .xyz2atd
+             .tri2con
+                .xyz2xyzn
+                   .cambial
+                      .nguth90
+                         .lum2td
+                      .inguth90              
+                         .td2lum             
+                             fmins*          
+                   .xyzl2td                  
+                       lum2td                 
+                .gancon                      
+             .con2atd
+                 tri2con
+                    xyz2xyzn
+                       cambial
+                          nguth90
+                             lum2td
+                          inguth90              
+                             td2lum             
+                                fmins*       
+                       xyzl2td               
+                          lum2td             
+                     gancon                  
+                .compcop                     
+          .xyz2svf                           
+           palt2tri                          
+              waitbar*                       (IMAGES)
+               
+      - palt2tri
+           waitbar*                          (IMAGES)
+      - tri2palt                             
+           waitbar*                          (IMAGES)
+          .cmunique*                         (IMAGES)
+             .imhist*                        (IMAGES)
+                .imhistc*                    (IMAGES)
+                   .imhistc.mex*     (IMAGES)
+          .vmquant*                  (IMAGES)
+             .vmquantc*              (IMAGES)
+                .vmquantc.mex*       (IMAGES)
+          .rgb2ind*                  (IMAGES)
+              cmunique*              (IMAGES)
+                 imhist*             (IMAGES)
+                    imhistc*         (IMAGES)
+                       imhistc.mex*  (IMAGES)
+              vmquant*               (IMAGES)
+                 vmquantc*           (IMAGES)
+                    vmquantc.mex*    (IMAGES)
+             .dither*                (IMAGES)
+                .ditherc*            (IMAGES)
+                   .ditherc.mex*     (IMAGES)
+             .im2bw*                 (IMAGES)
+             .rgb2gray*              (IMAGES)
+             .ind2rgb*               (IMAGES)
+             .imshow*                (IMAGES)     
+             .elem3d*                (IMAGES)
+         
+      - pincol4      
+           tri2palt                             
+              waitbar*                  (IMAGES)
+              cmunique*                 (IMAGES)
+                 imhist*                (IMAGES)
+                    imhistc*            (IMAGES)
+                       imhistc.mex*     (IMAGES)
+              vmquant*                  (IMAGES)
+                 vmquantc*              (IMAGES)
+                    vmquantc.mex*       (IMAGES)
+              rgb2ind*                  (IMAGES)
+                 cmunique*              (IMAGES)
+                    imhist*             (IMAGES)
+                       imhistc*         (IMAGES)
+                          imhistc.mex*  (IMAGES)
+                 vmquant*               (IMAGES)
+                    vmquantc*           (IMAGES)
+                       vmquantc.mex*    (IMAGES)
+                 dither*                (IMAGES)
+                    ditherc*            (IMAGES)
+                       ditherc.mex*     (IMAGES)
+                 im2bw*                 (IMAGES)
+                 rgb2gray*              (IMAGES)
+                 ind2rgb*               (IMAGES)
+                 imshow*                (IMAGES)     
+                 elem3d*                (IMAGES)           
+           tri2niv4
+              waitbar*
+              t2n
+                 tri2lum
+                 lum2niv 
+              miniecol
+                 errcol
+                    niv2coor
+                       ganadora
+                    n2t
+                       niv2lum
+                       lum2tri
+                 niv2coor
+                    ganadora
+              niv2coor
+                 ganadora
+              n2t
+                 niv2lum
+                 lum2tri
+          .ax
+           niv2tri2
+              niv2coor
+                 ganadora
+           est2tri 
+           coor2tri
+           lp2coor
+              tri2coor
+           colorend
+              tri2coor
+              lp2coor
+                 tri2coor
+              replocus  
+                 niv2coor 
+                    ganadora
+
+4.- Representaciones avanzadas del color (Ver resumen.txt para versión actualizada)
+
+        xyz2lab
+      - lab2xyz
+        xyz2luv
+      - luv2xyz
+        xyz2svf
+      - svf2xyz
+          .acop
+          .mixi
+          .lator
+          .latorb
+      - distasvf
+           xyz2svf
+
+        xyz2atd
+           tri2con
+              xyz2xyzn
+                 cambial
+                    nguth90
+                       lum2td
+                    inguth90              
+                       td2lum             
+                          fmins*
+                 xyzl2td                  
+                    lum2td                 
+              gancon                      
+           con2atd
+              tri2con
+                 xyz2xyzn
+                    cambial
+                       nguth90
+                          lum2td
+                       inguth90              
+                          td2lum             
+                             fmins*       
+                    xyzl2td
+                       lum2td
+                  gancon
+              compcop
+      - atd2xyz
+          .atds2f
+             .icompcop 
+          .atdf2con 
+              tri2con
+                 xyz2xyzn 
+                    cambial
+                       nguth90
+                          lum2td
+                       inguth90              
+                          td2lum             
+                             fmins*       
+                    xyzl2td                  
+                       lum2td                 
+                 gancon        
+          .con2tri                       
+              xyz2xyzn                    
+                 cambial                  
+                    nguth90               
+                       lum2td              
+                    inguth90              
+                       td2lum              
+                          fmins*          
+                 xyzl2td                   
+                    lum2td                 
+             .ingancon                      
+                 fmins*                   
+                .xyzn2xyz                 
+                    cambial                
+                       nguth90             
+                          lum2td          
+                       inguth90           
+                          td2lum          
+                             fmins*       
+                    xyzl2td               
+                       lum2td
+
+      - lab2perc
+      - perc2lab
+      - atd2perc
+          .atd1atd2
+              compcop
+              icompcop
+      - perc2atd
+          .errl
+              atd2atd2
+                 compcop
+                 icompcop
+           fmins*                        
+      - ciecam97
+      - ciecam79
+
+         
+5.- Demos
+
+      - democal
+      - demogen
+      - demoilu
+      - demodes
+      - demosat
+      - demofilt
+      - demovq
+      - demored

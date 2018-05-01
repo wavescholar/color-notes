@@ -1,0 +1,7 @@
+cezanne=imread('c:\colorlab\colordat\images\images\cezanne',jpg)
+[imindcezanne,palcezanne]=true2pal(cezanne,256);
+palcezanneATD=xyz2ATD(palcezanne,6);
+coloresfc=[475 1 10;580 1 10];
+paletafc=lp2coor(coloresfc,2,T_l,Yw);
+cezannefc(:,1:3)=repmat(paletafc(1,:),size(palcezanneATD,1),1).*(palcezanneATD(:,2)>=0)+repmat(paletafc(2,:),size(palcezanneATD,1),1).*(palcezanneATD(:,2)<0);
+imshow(imindcezanne,palcezanne);
